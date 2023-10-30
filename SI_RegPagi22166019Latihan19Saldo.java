@@ -13,10 +13,6 @@ package si_regpagi.pkg22166019.latihan19.saldo;
  * Deskripsi Program    : Berisi cara menghitung saldo tabungan tiap bulan selama 6 bulan. 
  */
 public class SI_RegPagi22166019Latihan19Saldo {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         
         //Deklarasi dan besaran variabel
